@@ -25,4 +25,4 @@ app.get('/',(req, res) => res.send('hola mundo cruel ahora usando express')
 
 /* server.listen(3000); */
   app.listen(3000);
-console.log('servicio en puerto 3000');
+console.log('servicio en puerto 3000 ok');
